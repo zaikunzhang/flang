@@ -1,0 +1,3 @@
+ #!/bin/bash
+
+ 7z a -v90m -mx=9 -t7z flang.7z flang
