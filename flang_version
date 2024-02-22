@@ -1,8 +1,4 @@
-15.0.3
+17.0.2
 
-LLVM_TAG="flang-15.0.3-20221103" 
-FLANG_TAG="flang_20221103" 
-
-See 
-https://github.com/flang-compiler/classic-flang-llvm-project/tags
-https://github.com/flang-compiler/flang/tags
+https://github.com/flang-compiler/flang/commit/170c4f6426937c419671456159631df386025dc5
+https://github.com/flang-compiler/classic-flang-llvm-project/commit/76a4feea9303cf4f11f4c1c46ed4645a2ceb3ff7
