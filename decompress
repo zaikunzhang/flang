@@ -1,0 +1,3 @@
+#!/bin/bash
+
+7za x flang.7z.001 -aoa
