@@ -1,3 +1,4 @@
  #!/bin/bash
 
- 7z a -v90m -mx=9 -t7z flang.7z flang
+tar -cf - flang | xz -9ze -T0 > flang.tar.xz
+split -b 16m -d --suffix-length=3 flang.tar.xz flang.tar.xz.
